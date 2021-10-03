@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarthakdev18
 - 👀 I’m interested in programming, gaming and web development
-- 🌱 I’m currently learning python and java
+- 🌱 I’m currently learning Java, html and css
 - 📫 How to reach me ---> sarthakdev27@gmail.com
 
 <!---
