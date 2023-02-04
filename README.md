@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **sarthakdev27@gmail.com**
 
-- ⚡ Fun fact **I think I can make you laugh ;)**
+- ⚡ Fun fact **I love to make people lauggh :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
