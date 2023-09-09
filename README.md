@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **Html, CSS, JavaScript (basic), React.js (basic)**
+- 💬 Ask me about **Html, CSS, JavaScript (basic), React.js (basic), Java (intermediate)**
 
 - 📫 How to reach me **sarthakdev27@gmail.com**
 
-- ⚡ Fun fact **I love to make people lauggh :)**
+- ⚡ Fun fact **I like to be punctual :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
