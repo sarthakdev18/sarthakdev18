@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **sarthakdev27@gmail.com**
 
-- ⚡ Fun fact **I like to be punctual :)**
+- ⚡ Fun fact **I once had a pet squirrel for 48 hours**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
