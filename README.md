@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthakdev18&label=Profile%20views&color=0e75b6&style=flat" alt="sarthakdev18" /> </p>
 
-- 🔭 I’m currently working on **Frontend projects**
+- 🔭 I’m currently working on **Java projects**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **Html, CSS, JavaScript (basic), React.js (basic), Java (intermediate)**
+- 💬 Ask me about **Frontend, Node.js, Express.js, Java, and editing**
 
 - 📫 How to reach me **sarthakdev27@gmail.com**
 
