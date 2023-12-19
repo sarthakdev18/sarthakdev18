@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarthak Dev</h1>
-<h3 align="center">I'm a Web Developer and Java programmer</h3>
+<h3 align="center">Web Developer | Java Programmer | SQL Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1124806/screenshots/4871258/ezgif.com-optimize.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthakdev18&label=Profile%20views&color=0e75b6&style=flat" alt="sarthakdev18" /> </p>
