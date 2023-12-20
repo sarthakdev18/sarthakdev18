@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthakdev18&label=Profile%20views&color=0e75b6&style=flat" alt="sarthakdev18" /> </p>
 
-- 🔭 I’m currently working on **Java projects**
+- 🔭 I’m currently working on **MERN Stack & Java projects**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Three.js & SQL**
 
 - 💬 Ask me about **Frontend, Node.js, Express.js, Java, and editing**
 
 - 📫 How to reach me **sarthakdev27@gmail.com**
 
-- ⚡ Fun fact **I once had a pet squirrel for 48 hours**
+- ⚡ Fun fact **Ferrari, Football, Marvel and GTA is my happy space :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
