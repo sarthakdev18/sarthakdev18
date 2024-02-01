@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **MERN Stack & Java projects**
 
-- 🌱 I’m currently learning **Three.js & SQL**
+- 🌱 I’m currently learning **NextJS and TypeScript**
 
 - 💬 Ask me about **Frontend, Node.js, Express.js, Java, and editing**
 
