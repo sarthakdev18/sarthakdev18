@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Sarthak Dev</h1>
-<h3 align="center">Web Developer | Java Programmer | SQL Developer</h3>
+<h3 align="center">MERN Stack | Machine Learning | SQL</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1124806/screenshots/4871258/ezgif.com-optimize.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthakdev18&label=Profile%20views&color=0e75b6&style=flat" alt="sarthakdev18" /> </p>
 
-- 🔭 I’m currently working on **MERN Stack & Java projects**
+- 🔭 I’m currently working on **Mschine Learning**
 
-- 🌱 I’m currently learning **NextJS and TypeScript**
+- 🌱 I’m currently learning **Deep Learning**
 
-- 💬 Ask me about **Frontend, Node.js, Express.js, Java, and editing**
+- 💬 Ask me about **MERN Stack, ML, and SQL**
 
 - 📫 How to reach me **sarthakdev27@gmail.com**
 
-- ⚡ Fun fact **Ferrari, Football, Marvel and GTA is my happy space :)**
+- ⚡ Fun fact **Ferrari, Football, Marvel and Games are my happy space :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
